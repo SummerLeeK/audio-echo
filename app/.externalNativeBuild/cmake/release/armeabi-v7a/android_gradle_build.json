@@ -1,0 +1,65 @@
+
+{
+	"buildFiles" : 
+	[
+		"G:/android/android-ndk-master/audio-echo/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"H:\\androidsdk\\Android_SDK\\Android_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\android\\android-ndk-master\\audio-echo\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"echo-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "echo",
+			"buildCommand" : "H:\\androidsdk\\Android_SDK\\Android_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\android\\android-ndk-master\\audio-echo\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target echo",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_common.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_main.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_player.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_recorder.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/debug_utils.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "G:/android/android-ndk-master/audio-echo/app/build/intermediates/cmake/release/obj/armeabi-v7a/libecho.so",
+			"toolchain" : "3377881937"
+		}
+	},
+	"toolchains" : 
+	{
+		"3377881937" : 
+		{
+			"cCompilerExecutable" : "H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

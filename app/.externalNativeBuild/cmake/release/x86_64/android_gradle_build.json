@@ -1,0 +1,65 @@
+
+{
+	"buildFiles" : 
+	[
+		"G:/android/android-ndk-master/audio-echo/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"H:\\androidsdk\\Android_SDK\\Android_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\android\\android-ndk-master\\audio-echo\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"echo-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "echo",
+			"buildCommand" : "H:\\androidsdk\\Android_SDK\\Android_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\android\\android-ndk-master\\audio-echo\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target echo",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_common.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_main.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_player.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/audio_recorder.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot  -Decho_EXPORTS -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\android\\support\\include -isystem H:\\androidsdk\\Android_SDK\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "G:/android/android-ndk-master/audio-echo/app/src/main/cpp/debug_utils.cpp",
+					"workingDirectory" : "G:/android/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "G:/android/android-ndk-master/audio-echo/app/build/intermediates/cmake/release/obj/x86_64/libecho.so",
+			"toolchain" : "3377881937"
+		}
+	},
+	"toolchains" : 
+	{
+		"3377881937" : 
+		{
+			"cCompilerExecutable" : "H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "H:/androidsdk/Android_SDK/Android_SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

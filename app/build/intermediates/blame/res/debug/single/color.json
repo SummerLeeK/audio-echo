@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\u\\.android\\build-cache\\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\\output\\res\\color\\abc_primary_text_material_light.xml"
+    }
+]

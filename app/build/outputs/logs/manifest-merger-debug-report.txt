@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:6:5-87
+	android:name
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:7:5-96
+	android:name
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\u\.android\build-cache\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\u\.android\build-cache\f98eb40fc6395dde672de66adb9408c878cb67ab\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\u\.android\build-cache\1ad7917a218c0a3e68dec09ae03537f7985004f9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\u\.android\build-cache\047fccd019fe6d0e46c7d4e242bd015357aa173b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\u\.android\build-cache\0024bce23709f07763e4e158a25949c337568d8a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\u\.android\build-cache\6ff1394524c71481ae2742b83bb12d1879e1d76d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\u\.android\build-cache\cab587252c4ad9710443c0433eca6b6be7234957\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\u\.android\build-cache\12a123a2e4a119f925961bcfed494bdcf7a740a2\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\u\.android\build-cache\bd36cfa4846d4e0b89e58a02fca1339aaf4f9f52\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:14:9-35
+	android:fullBackupContent
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:11:9-42
+	android:allowBackup
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.google.sample.echo.MainActivity
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\u\.android\build-cache\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\u\.android\build-cache\f98eb40fc6395dde672de66adb9408c878cb67ab\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\u\.android\build-cache\1ad7917a218c0a3e68dec09ae03537f7985004f9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\u\.android\build-cache\047fccd019fe6d0e46c7d4e242bd015357aa173b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\u\.android\build-cache\0024bce23709f07763e4e158a25949c337568d8a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\u\.android\build-cache\6ff1394524c71481ae2742b83bb12d1879e1d76d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\u\.android\build-cache\cab587252c4ad9710443c0433eca6b6be7234957\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\u\.android\build-cache\12a123a2e4a119f925961bcfed494bdcf7a740a2\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\u\.android\build-cache\bd36cfa4846d4e0b89e58a02fca1339aaf4f9f52\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\u\.android\build-cache\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml

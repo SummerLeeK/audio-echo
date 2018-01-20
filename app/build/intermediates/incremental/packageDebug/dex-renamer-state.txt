@@ -1,0 +1,7 @@
+#Sat Jan 20 16:48:26 CST 2018
+base.0=G\:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f4550c7ed0a8fe4c53fdfdb504b2851973efb72
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7083e63916322f538b54f39cfcdb1e7ca91e039\\classes.dex
+base.1=G\:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7083e63916322f538b54f39cfcdb1e7ca91e039
+file.0=G\:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f4550c7ed0a8fe4c53fdfdb504b2851973efb72\\classes.dex

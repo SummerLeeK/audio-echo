@@ -1,0 +1,4 @@
+#Sat Jan 20 15:14:12 CST 2018
+base.0=G\:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=G\:\\android\\android-ndk-master\\audio-echo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

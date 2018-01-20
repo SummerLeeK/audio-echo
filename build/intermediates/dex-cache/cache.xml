@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\androidsdk\Android_SDK\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_447bb0dfef17fc70aa2e36e04545b9220c3db8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\12a123a2e4a119f925961bcfed494bdcf7a740a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_f342bd06ea6dca22268275a3595dd7729781b470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\0024bce23709f07763e4e158a25949c337568d8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_2b5561b9bc205e4b7866dba0bf568351c3bc3a00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\6ff1394524c71481ae2742b83bb12d1879e1d76d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_0a0e97e5ec46e50d94a06cf74ee679b9fd514fcb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\android\android-ndk-master\audio-echo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e7083e63916322f538b54f39cfcdb1e7ca91e039\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\bd36cfa4846d4e0b89e58a02fca1339aaf4f9f52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_912f415767dbe0a73115a4ebfa6cf548f5e144f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\cab587252c4ad9710443c0433eca6b6be7234957\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_9b06f24ce6e06e070de52f44ca7b1b0d029ee5d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\1ad7917a218c0a3e68dec09ae03537f7985004f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_c5bbec71b42dc07e5b4b050d79bbfb9fbb2ca9c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\d2735f630ab8bb140cd8ea5d0449ce7ee3a704f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_8887b00de7e65acf5edaf9c52f8f4008c8c01465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\f98eb40fc6395dde672de66adb9408c878cb67ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_5f85b369517e60000dd04f3f5d1a3af15738abc1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\android\android-ndk-master\audio-echo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="181210ae905b830d8466da751803643578be5e06">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3f4550c7ed0a8fe4c53fdfdb504b2851973efb72\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u\.android\build-cache\047fccd019fe6d0e46c7d4e242bd015357aa173b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="G:\android\android-ndk-master\audio-echo\app\build\intermediates\pre-dexed\debug\classes_a549705fe9004ed4ff8b2b3e1717d3672a9c67c4.jar" />
+    </item>
+
+</items>
